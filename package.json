@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "index.js": "json-server --watch src/index.js",
     "dev": "json-server --watch src/db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

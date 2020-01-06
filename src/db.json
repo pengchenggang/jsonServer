@@ -7,61 +7,71 @@
     {
       "code": "N2",
       "codeName": "N2名字"
-    }
-  ],
-  "users": [
-    {
-      "name": "Henry",
-      "phone": "333-444-555",
-      "email": "henry@email.com",
-      "id": 1,
-      "age": 33,
-      "companyId": 1
     },
     {
-      "name": "Bucky",
-      "phone": "333-444-555",
-      "email": "bucky@email.com",
-      "id": 2,
-      "age": 34,
-      "companyId": 2
+      "id": "0.8030222338511646",
+      "code": "N2Insert",
+      "codeName": "N2名字Insert"
     },
     {
-      "name": "Emily",
-      "phone": "333-444-555",
-      "email": "emily@email.com",
-      "id": 3,
-      "age": 43,
-      "companyId": 3
+      "id": "0.6741640033766716",
+      "code": "N2Insert",
+      "codeName": "N2名字Insert"
     },
     {
-      "id": 4
+      "id": "0.4430165367328336",
+      "code": "N2Insert",
+      "codeName": "N2名字Insert"
     },
     {
-      "id": 5
+      "id": "0.18160354509464738",
+      "code": "N2Insert",
+      "codeName": "N2名字Insert"
     },
     {
-      "id": 6
+      "id": "0.7650036349722418",
+      "code": "N2Insert",
+      "codeName": "N2名字Insert"
     },
     {
-      "id": 7
-    }
-  ],
-  "companies": [
-    {
-      "id": 1,
-      "name": "Apple",
-      "description": "Apple is good"
+      "id": "0.280739029149369",
+      "code": "N2Insert",
+      "codeName": "N2名字Insert"
     },
     {
-      "id": 2,
-      "name": "Miciosoft",
-      "description": "Miciosoft is good"
+      "id": "0.5552460002602146",
+      "code": "N2Insert",
+      "codeName": "N2名字Insert"
     },
     {
-      "id": 3,
-      "name": "Google",
-      "description": "Google is good"
+      "id": "0.9019807796326784",
+      "code": "N2Insert",
+      "codeName": "N2名字Insert"
+    },
+    {
+      "id": "0.37864756963168134",
+      "code": "N2Insert",
+      "codeName": "N2名字Insert"
+    },
+    {
+      "id": "0.701611663032361",
+      "code": "N2Insert",
+      "codeName": "N2名字Insert"
+    },
+    {
+      "id": "0.3398309375854671",
+      "code": "N2Insert",
+      "codeName": "N2名字Insert"
+    },
+    {
+      "id": "0.9397568804859155",
+      "code": "N2Insert",
+      "codeName": "N2名字Insert"
+    },
+    {
+      "id": "0.9000641405692182",
+      "code": "N2Insert",
+      "codeName": "N2名字Insert"
     }
   ]
 }
